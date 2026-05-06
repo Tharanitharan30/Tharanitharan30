@@ -9,11 +9,11 @@
 - 📬 Reach me at:  [LinkedIn](https://www.linkedin.com/in/tharanitharan-s-902365324/)
 - ⚙️ Fun fact: Turned a simple idea into an ML-based solution just to explore its potential
 
-<br clear="both">
 
-<img width="100%" src="https://raw.githubusercontent.com/Tharanitharan30/Tharanitharan30/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 
-<br clear="both">
 
 ## 🌐 Socials:
 
@@ -48,3 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" style="margin: 10px;" />
 </div>
 
+<br clear="both">
+
+<img width="100%" src="https://raw.githubusercontent.com/Tharanitharan30/Tharanitharan30/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
