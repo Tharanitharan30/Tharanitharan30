@@ -6,7 +6,7 @@
 - 🚀 Currently building full-stack and ML-based systems that solve real-world problems
 - 🧠 Learning by shipping projects, breaking things, and improving them
 - 🛠 Ask me about React, backend systems, and machine learning integration
-- 📬 Reach me at:  [LinkedIn](https://www.linkedin.com/in/tharanitharan-s-902365324/)
+- 📬 Reach me at:  [LinkedIn](https://www.linkedin.com/in/tharanitharan-s/)
 - ⚙️ Fun fact: Turned a simple idea into an ML-based solution just to explore its potential
 
 
@@ -17,7 +17,7 @@
 
 ## 🌐 Socials:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanitharan-s-902365324/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanitharan-s/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tharani_tharan_30/)
 # 💻 Tech Stack:
 <div align="left">
