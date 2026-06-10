@@ -1,5 +1,6 @@
+
 # 💫 About Me:
-## Hi there, I'm THARANITHARAN S 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Tharanitharan+S;Full+Stack+Developer+ML+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
 
 ### Full Stack Developer and ML Engineer with hands-on experience building end-to-end systems, from responsive frontend interfaces to AI-powered backend solutions. Skilled in developing scalable web applications, integrating machine learning models, and designing clean, efficient architectures.
 
@@ -86,12 +87,21 @@
 <img src="https://skillicons.dev/icons?i=figma" height="70" />
 </div>
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharanitharan30&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tharanitharan30&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharanitharan30&theme=github-dark&hide_border=true" />
+</p>
 
 <br clear="both">
 
 <img width="100%" src="https://raw.githubusercontent.com/Tharanitharan30/Tharanitharan30/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
-
 
 
